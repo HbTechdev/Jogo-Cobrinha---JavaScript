@@ -1,2 +1,6 @@
 # Jogo-Cobrinha---JavaScript
-Mais um projeto realizado com a ajuda da Digital Innovation One. Adicionei uma comida que faz perder o jogo, tornando-o mais difícil.
+Algumas alterações foram feitas:
+* Modificação das cores
+* Adicionei uma comida que faz perder o jogo, tornando-o mais difícil.
+
+Até aqui foi um dos projetos mais fáceis. Me sinto preparado para novos desafios. Seguimos!
